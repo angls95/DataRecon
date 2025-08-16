@@ -28,7 +28,12 @@ Install dependencies with:
 pip install -r requirements.txt
 ```
 
-NOTE: Tt is recommended to execute the tool on a virtual env.
+NOTE: It is recommended to run the tool in a virtual env.
+```bash
+python -m virtualenv myenv
+source myenv/bin/activate
+python -m pip install -r requirements.txt
+```
 
 ## Download and Execution  
 Clone the repository:  
