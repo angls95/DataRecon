@@ -1,0 +1,10 @@
+21/tcp - ftp / vsftpd - 2.3.4
+22/tcp - ssh / OpenSSH - 4.7p1 Debian 8ubuntu1
+23/tcp - telnet / Linux telnetd
+25/tcp - smtp / Postfix smtpd
+53/tcp - domain / ISC BIND - 9.4.2
+80/tcp - http / Apache httpd - 2.2.8
+111/tcp - rpcbind 2
+139/tcp - netbios-ssn / Samba smbd - 3.X - 4.X
+445/tcp - netbios-ssn / Samba smbd - 3.X - 4.X
+3306/tcp - mysql / MySQL - 5.0.51a-3ubuntu5
