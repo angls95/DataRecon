@@ -28,6 +28,8 @@ Install dependencies with:
 pip install -r requirements.txt
 ```
 
+NOTE: Tt is recommended to execute the tool on a virtual env.
+
 ## Download and Execution  
 Clone the repository:  
 ```bash
